@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\djans\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\djans\\.nuget\\packages"
+    ]
+  }
+}
